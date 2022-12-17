@@ -2,6 +2,8 @@
 "version":6,
 "adtype":2,
 "boo":true,
+"cuimage":"https://media.api-sports.io//football//teams//81.png",
+"culink":"https://media.api-sports.io//football//teams//81.png",
 "openads":"/211182487/ca-mb-app-pub-2726428685015992/com.korea.allkar_AppOpen_480x320", 
 "rewads":"/211182487/ca-mb-app-pub-2726428685015992/com.korea.allkar_Adreward_480x320", 
 "banner":"/211182487/ca-mb-app-pub-2726428685015992/com.korea.allkar_Banner_300x250", 
